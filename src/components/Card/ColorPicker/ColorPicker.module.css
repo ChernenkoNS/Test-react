@@ -1,0 +1,12 @@
+
+
+.colorCard {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: none;
+}
+
+.colorCardActive {
+    transform: scale(1.2);
+}
